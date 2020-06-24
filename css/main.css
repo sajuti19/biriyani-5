@@ -89,6 +89,17 @@ nav hr {
     opacity: .7;
     letter-spacing: 1px;
 }
+.btm a {
+    font-family: all;
+    color: #002266;
+    font-size: 100%;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 1px;
+}
+.btm a:hover{
+    background-color: #cce5ff;
+}
 
 .right hr {
     border:3px solid #ffcc00;
